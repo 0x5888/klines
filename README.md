@@ -1,4 +1,20 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Config File 
+
+
+- etherjs
+https://docs.ethers.io/v5/
+
+- cex api 
+https://github.com/0x5888/react-tradingview
+
+- graphql endpoint 
+https://graphiql-online.com/graphiql 
+https://4b3vdz2hdjho7gzuo4wl2jgsoe.appsync-api.ap-southeast-1.amazonaws.com/graphql
+
+
+X-Api-Key:  da2-lq3fkypifbfp3mzfdkac26avzm
+
+
 
 ## Getting Started
 
