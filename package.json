@@ -9,6 +9,7 @@
   "dependencies": {
     "@saeris/apollo-server-vercel": "^1.0.1",
     "axios": "^0.26.1",
+    "cors": "^2.8.5",
     "graphql": "^15.8.0",
     "next": "12.1.0",
     "react": "17.0.2",
